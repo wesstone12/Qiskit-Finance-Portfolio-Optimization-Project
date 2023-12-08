@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+requests = "*"
+tqdm = "*"
+seaborn = "*"
+ipywidgets = "*"
+panel = "*"
+jupyter-bokeh = "*"
+matplotx = "*"
+scipy = "*"
+scikit-learn = "*"
+qiskit = "*"
+pylatexenc = "*"
+qiskit-ibmq-provider = "*"
+qiskit-aer = "*"
+qiskit-finance = "*"
+pyportfolioopt = "*"
+cudf-cu11 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
