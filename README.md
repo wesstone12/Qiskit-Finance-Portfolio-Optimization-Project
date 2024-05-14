@@ -1,3 +1,5 @@
+### If it doesn't render use link: https://nbviewer.org/github/wesstone12/Qiskit-Finance-Portfolio-Optimization-Project/blob/main/Qiskit%20Portfolio%20Opt.ipynb
+
 # Qiskit-Finance-Portfolio-Optimization-Project
 Senior Capstone project, combining Qiskit Finance and PyPortfolioOpt. Would not use this for any financial purposes!! Did my best trying to learn quantum computing, so please cut me some slack
 
